@@ -29,6 +29,7 @@ The dataset includes the following key attributes:
 * Table Booking Availability
 
 **Technology Stack:**
+
 **Category & Tools Used**
 * Programming	- Python
 * Data Processing - Pandas, NumPy
